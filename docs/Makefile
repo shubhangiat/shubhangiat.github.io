@@ -1,4 +1,4 @@
-INSTALL_PATH = "/home/genie/github/www"
+INSTALL_PATH = "/home/genie/github/shubhangiat"
 
 setup:
 	bundle install
