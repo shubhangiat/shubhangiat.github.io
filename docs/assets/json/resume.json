@@ -52,11 +52,19 @@
   ],
   "work": [
     {
+      "name": "Google IT Services India Private Limited, Bengaluru, India",
+      "position": "Software Engineer",
+      // "url": "",
+      "startDate": "2026-08",
+      "endDate": "Present"
+      // "summary": "Working on the project 'BharatGPT: A Suite of Generative AI Tech for India'."
+      // "highlights": ["property graphs", "time series"]
+    },{
       "name": "Indian Institute of Technology Kanpur, India",
       "position": "Project Executive Officer",
       "url": "https://bharatgen.iitk.ac.in/",
       "startDate": "2025-09",
-      "endDate": "Present",
+      "endDate": "2026-07",
       "summary": "Working on the project 'BharatGPT: A Suite of Generative AI Tech for India'."
       // "highlights": ["property graphs", "time series"]
     },
