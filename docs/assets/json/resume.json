@@ -65,8 +65,8 @@
       "url": "https://bharatgen.iitk.ac.in/",
       "startDate": "2025-09",
       "endDate": "2026-07",
-      "summary": "Working on the project 'BharatGPT: A Suite of Generative AI Tech for India'."
-      // "highlights": ["property graphs", "time series"]
+      "summary": "Worked on the project 'BharatGPT: A Suite of Generative AI Tech for India'.",
+      "highlights": ["LLMs", "Machine Translation"]
     },
     {
       "name": "LIRIS Research Lab, CNRS, University Lyon 1, France",
@@ -74,8 +74,8 @@
       "url": "https://liris.cnrs.fr/en",
       "startDate": "2024-05",
       "endDate": "2025-04",
-      "summary": "Worked on the HyGraph Project, a hybrid between property graphs and time series data models. The project was funded under ANR and DFG grants."
-      // "highlights": ["property graphs", "time series"]
+      "summary": "Worked on the HyGraph Project, a hybrid between property graphs and time series data models. The project was funded under ANR and DFG grants.",
+      "highlights": ["Property Graphs", "Time Series"]
     },
     {
       "name": "Indian Institute of Technology Kanpur, India",
